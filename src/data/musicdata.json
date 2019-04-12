@@ -1,0 +1,50 @@
+{
+   
+      "songs": [
+        {
+          "id": 123,
+          "name": "Biddy",
+          "title": "I am a pro",
+          "imgURL": "https://i.ibb.co/5j43ZHm/image-icon.png"
+        },
+        {
+            "id": 456,
+            "name": "Biddy",
+            "title": false,
+            "imgURL": "https://i.ibb.co/5j43ZHm/image-icon.png"
+          },
+          {
+            "id": 789,
+            "name": "Biddy",
+            "title": "I am a pro",
+            "imgURL": "https://i.ibb.co/5j43ZHm/image-icon.png"
+          },
+          {
+              "id": 012,
+              "name": "Biddy",
+              "title": "Legend",
+              "imgURL": "https://i.ibb.co/5j43ZHm/image-icon.png"
+            },
+            {
+              "id": 345,
+              "name": "Biddy",
+              "title": false,
+              "imgURL": "https://i.ibb.co/5j43ZHm/image-icon.png"
+            },
+            {
+              "id": 678,
+              "name": "Biddy",
+              "title": "I am a pro",
+              "imgURL": "https://i.ibb.co/5j43ZHm/image-icon.png"
+            },
+            {
+                "id": 901,
+                "name": "Biddy",
+                "title": "Legend",
+                "imgURL": "https://i.ibb.co/5j43ZHm/image-icon.png"
+              }
+
+
+      ]
+    
+  }
